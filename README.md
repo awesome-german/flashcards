@@ -4,26 +4,6 @@
 
 Learning German vocabulary efficiently requires the right tools, strategies, and resources. This curated list brings together everything you need to master German through flashcards and spaced repetition systems (SRS). Whether you're a complete beginner or an advanced learner, you'll find resources to accelerate your German vocabulary acquisition.
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**better-super-simple-highlighter**](https://github.com/didvc/better-super-simple-highlighter) — Better Super Simple Highlighter - a Chrome extension (MV3), text highlighting for web pages. The enhanced fork of…
-- [**caddy-midi**](https://github.com/didvc/caddy-midi) — Caddy HTTP handler that serves MIDI files as synthesized audio. Pure Go, no cgo.
-- [**PingTracer-web**](https://github.com/nim-apps/PingTracer-web) — Ping monitor in Nim.
-- [**sdg**](https://github.com/SDGScript/sdg) — SDGScript | the sustainable programming language. A lighthearted but real tree-walking interpreter in Go.
-- [**simple-desktop-replay**](https://github.com/didvc/simple-desktop-replay) — Always-on rolling replay buffer for the Windows desktop: a low-overhead RAM DVR that keeps the last few minutes of screen so you can save the…
-- [**oss**](https://github.com/simple-netmon/oss) — Network monitor for Windows, local, privacy-respecting, per-app (ETW-first, no Npcap)
-- [**learning-hacks**](https://github.com/awesome-german/learning-hacks) — Practical shortcuts and science-backed techniques for learning German faster and remembering longer.
-- [**apps**](https://github.com/awesome-german/apps) — Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
-- [**cognitive-learning**](https://github.com/awesome-german/cognitive-learning) — Cognitive and neuroscience-based methods for efficient German acquisition
-- [**phrases**](https://github.com/awesome-german/phrases)
-- [**rpm-iq-exam**](https://github.com/iq-misc/rpm-iq-exam) — Free online IQ test based on Raven's Progressive Matrices with React and TypeScript. Cognitive assessment tool for pattern recognition and logical…
-- [**core**](https://github.com/URL-Note-Taker/core) — URL Note Taker is a userscript that allows you to take notes on any webpage. Built with Preact, it provides a modern and intuitive user interface.
-- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
-- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [Flashcard Applications](#flashcard-applications)
@@ -958,6 +938,12 @@ Learning German vocabulary efficiently requires the right tools, strategies, and
 - Connect with community for support
 - Remember your "why" - motivation matters
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! This is a community-driven list.
@@ -1002,3 +988,22 @@ Contributions are welcome! This is a community-driven list.
 ---
 
 **Made with ❤️ by the German learning community. Happy learning! Viel Erfolg!**
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [vocabulary](https://github.com/awesome-german/vocabulary): Curated resources and tools to expand German vocabulary by topic, frequency, and context.
+- [apps](https://github.com/awesome-german/apps): Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [cognitive-learning](https://github.com/awesome-german/cognitive-learning): Cognitive and neuroscience-based methods for efficient German acquisition.
+- [ai-tools](https://github.com/awesome-german/ai-tools): AI-powered tools and chatbots that personalize German learning and automate feedback.
+
+<!-- END gh-mutual-linking -->
